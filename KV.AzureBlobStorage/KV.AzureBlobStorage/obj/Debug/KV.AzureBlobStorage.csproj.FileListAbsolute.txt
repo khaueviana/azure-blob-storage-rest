@@ -1,0 +1,1 @@
+C:\Users\khaueviana\Source\Repos\azure-blob-storage\KV.AzureBlobStorage\KV.AzureBlobStorage\bin\Debug\KV.AzureBlobStorage.exe.config
