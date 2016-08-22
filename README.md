@@ -1,5 +1,5 @@
-Azure Blob Storage Rest
------------------------
+# azure-blob-storage-rest
+
 Example of use of the resource **Azure Blob Storage** through the REST API.
 
 In this example shows the following methods : PutBlob and ListBlob 
